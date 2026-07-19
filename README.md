@@ -1,7 +1,5 @@
 # Solstice Client 
-<img width="818" height="811" alt="Ekran görüntüsü 2026-07-19 171819" src="https://github.com/user-attachments/assets/1938fd72-e7d0-46ab-b614-9825870b4a0d" />
-
-
+<img width="1919" height="997" alt="solstice" src="https://github.com/user-attachments/assets/d4f0b753-a80a-40b5-a28f-61c50a8f24bb" />
 ## Installation
 
 1. Download **the jar file** from the **Releases** section.
