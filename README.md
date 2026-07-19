@@ -1,5 +1,6 @@
 # Solstice Client 
-![Uploading Ekran görüntüsü 2026-07-19 171819.png…]()
+<img width="818" height="811" alt="Ekran görüntüsü 2026-07-19 171819" src="https://github.com/user-attachments/assets/1938fd72-e7d0-46ab-b614-9825870b4a0d" />
+
 
 ## Installation
 
