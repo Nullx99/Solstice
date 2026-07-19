@@ -7,11 +7,6 @@
 2. Place the downloaded file into the **`mods`** section of your game.
 3. Launch the game and enjoy.
 
-## Building
-```sh
-./gradlew build # output JAR will be located in ./build/libs/
-```
-
 ## Credits
 - [nullrush](https://github.com/Nullx99)
 
