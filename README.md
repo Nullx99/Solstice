@@ -5,6 +5,7 @@
 - **ClickGUI:** Right Shift
 - **Command prefix:** `.`
 - **Minecraft:** 1.21.4
+- **Java:** 21
 - **Fabric Loader:** 0.19.3
 
 ## Installation
