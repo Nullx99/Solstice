@@ -1,5 +1,6 @@
 # Solstice Client 
-<img width="1015" height="1015" alt="solstice" src="https://github.com/user-attachments/assets/d3fcd199-82ee-417b-a76c-36f5726929b3" />
+<img width="1015" height="1015" alt="solstice_icon" src="https://github.com/user-attachments/assets/23913c52-9531-46e8-8c68-c31267e1685b" />
+
 ## Installation
 
 1. Download **the jar file** from the **Releases** section.
