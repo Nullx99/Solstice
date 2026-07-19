@@ -9,6 +9,7 @@
 
 ## Credits
 - [nullrush](https://github.com/Nullx99)
+- [itsmahir](https://github.com/gumballgardas1)
 
 ## FAQ
 - **ClickGUI:** Right Shift
