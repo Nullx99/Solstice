@@ -26,7 +26,7 @@
 <details>
 <summary>How do I open the ClickGUI?</summary>
 
-The default keybind is **Right Shift**. You can rebind it in Minecraft's Controls menu from the ClickGUI module itself.
+The default keybind is **Right Shift**.
 
 </details>
 
