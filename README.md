@@ -5,7 +5,8 @@
 <details>
 <summary>View ClickGui</summary>
   
-<img width="1919" height="997" alt="solstice" src="https://github.com/user-attachments/assets/d4f0b753-a80a-40b5-a28f-61c50a8f24bb" />
+<img width="1919" height="998" alt="Ekran görüntüsü 2026-07-30 200409" src="https://github.com/user-attachments/assets/cc7a4d85-9674-4915-b521-d289c65dda1f" />
+
 
 </details>
 
