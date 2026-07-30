@@ -50,7 +50,7 @@ Open the ClickGUI, right-click a module to expand its settings, and use the bind
 <details>
 <summary>Where are my settings saved?</summary>
 
-Configs are stored in your Minecraft instance directory under the Homovore folder and persist between sessions.
+Configs are stored in your Minecraft instance directory under the Solstice folder and persist between sessions.
 
 </details>
 
