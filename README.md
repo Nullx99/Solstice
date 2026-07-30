@@ -17,10 +17,6 @@
 2. Place the downloaded file into the **`mods`** section of your game.
 3. Launch the game and enjoy.
 
-## Credits
-- [nullrush](https://github.com/Nullx99)
-- [itsmahir](https://github.com/gumballgardas1)
-
 ## FAQ
 
 <details>
@@ -66,6 +62,10 @@ Configs are stored in your Minecraft instance directory under the Homovore folde
 - **Minecraft:** 1.21.4
 - **Java:** 21
 - **Fabric Loader:** 0.19.3
+
+## Credits
+- [nullrush](https://github.com/Nullx99)
+- [itsmahir](https://github.com/gumballgardas1)
 
 > [\!WARNING]
 > Some features in this client may not work as expected.
