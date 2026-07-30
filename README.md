@@ -3,7 +3,7 @@
 ## Screenshots
 
 <details>
-<summary>View ClickUI</summary>
+<summary>View ClickGui</summary>
   
 <img width="1919" height="997" alt="solstice" src="https://github.com/user-attachments/assets/d4f0b753-a80a-40b5-a28f-61c50a8f24bb" />
 
