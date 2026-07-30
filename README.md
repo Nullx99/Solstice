@@ -5,7 +5,8 @@
 <details>
 <summary>View ClickGui</summary>
   
-<img width="1919" height="998" alt="Ekran görüntüsü 2026-07-30 200409" src="https://github.com/user-attachments/assets/cc7a4d85-9674-4915-b521-d289c65dda1f" />
+<img width="1919" height="996" alt="Ekran görüntüsü 2026-07-30 232837" src="https://github.com/user-attachments/assets/7dc1b4ed-fd14-4c22-8b68-b27f5e031c70" />
+
 
 
 </details>
