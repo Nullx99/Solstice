@@ -60,7 +60,7 @@ Configs are stored in your Minecraft instance directory under the Homovore folde
 
 ---
 
-## FAQ
+## Requirements
 - **ClickGUI:** Right Shift
 - **Command prefix:** `.`
 - **Minecraft:** 1.21.4
