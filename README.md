@@ -1,6 +1,6 @@
 # Solstice Client 
 
-## ClickGui
+## Screenshots
 
 <details>
 <summary>View ClickUI</summary>
